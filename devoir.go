@@ -44,7 +44,7 @@ func main() {
 			var index Index
 
 			if err := json.Unmarshal(s.Bytes(), &index); nil != err {
-				log.Printf(err.Error())
+				log.Fatal(err)
 			}
 
 			// Incrémente le nombre de modules et de versions pour la forge
