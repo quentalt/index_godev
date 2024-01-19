@@ -2,13 +2,6 @@ Question k8s : Kubernetes est un projet open source. Tout le monde peut ainsi co
 et publier de nouvelles versions des modules.
 Le nombre de versions est beaucoup plus élevé que le nombre de modules. 
 
-# Go example projects
-
-[![Go Reference](https://pkg.go.dev/badge/golang.org/x/example.svg)](https://pkg.go.dev/golang.org/x/example)
-
-This repository contains a collection of Go programs and libraries that
-demonstrate the language, standard libraries, and tools.
-
 ## [index_godev](index_godev/)
 
 ```
